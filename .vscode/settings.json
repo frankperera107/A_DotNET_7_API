@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b064ba44-62fd-4335-9b4a-1234737413b2/resourceGroups/fruitapi-frankperera107-rg/providers/Microsoft.Web/sites/fruitapi-frankperera107",
+    "appService.deploySubpath": "FruitAPI"
+}
